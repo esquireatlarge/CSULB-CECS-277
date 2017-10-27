@@ -1,5 +1,5 @@
 //Filename:  runway.h
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Wednesday, September 17th, 2008
 //Class description:  This header contains function declarations
 //for the runway class, which is a member of the airport class.

@@ -1,5 +1,5 @@
 //Filename:  ListException.h
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written: March 3rd, 2008
 //Class Description:  Allows for exceptions that might occur in the list
 //to be "throw" to the user.

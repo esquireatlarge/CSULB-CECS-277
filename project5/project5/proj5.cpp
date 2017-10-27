@@ -3,7 +3,7 @@
 //Program Database for Edit and Continue
 //And others.
 //Filename:  proj3.cpp
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Tuesday, October 28th, 2008.
 //Program Description:  This is the main file, which possesses
 //a set that will contain different airports stored in descending

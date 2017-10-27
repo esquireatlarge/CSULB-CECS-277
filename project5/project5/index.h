@@ -1,5 +1,5 @@
 //Filename:  index.h
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Wednesday, December 3rd, 2008.
 //Program Description:  This header file contains the index
 //class to be used for writing to the index file.

@@ -1,5 +1,5 @@
 //Filename: runway.cpp
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Wednesday, September 17th, 2008.
 //Class description:  Contains coding for methods in the runway
 //header file.

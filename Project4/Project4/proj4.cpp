@@ -1,5 +1,5 @@
 //Filename:  proj4.cpp
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Wednesday, November 5th, 2008.
 //Remember, remember, the fifth of November...
 //Program Description:  This is the main file, which possesses

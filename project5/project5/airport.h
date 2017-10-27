@@ -1,5 +1,5 @@
 //Filename:  airport.h
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Wednesday, September 17th, 2008.
 //Program Description:  This header file contains the function 
 //declarations for the airport class.

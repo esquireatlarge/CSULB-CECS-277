@@ -1,5 +1,5 @@
 //Filename:  towered.cpp
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Wednesday, October 8th, 2008.
 //Program Description:  This code file contains class definitions
 //for a towered airport, which is derived from the airport

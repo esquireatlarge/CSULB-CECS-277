@@ -1,5 +1,5 @@
 //Filename:  towered.h
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Wednesday, October 8th, 2008.
 //Program Description:  This header file contains a class
 //for a towered airport, which is derived from the airport

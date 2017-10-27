@@ -1,5 +1,5 @@
 //Filename:  nontowered.h
-//Author:  Matt Sguerri
+//Author:  Esquire At Large
 //Date written:  Monday, October 13th, 2008.
 //Program Description:  This header file contains a class
 //for a nontowered airport, which is derived from the airport

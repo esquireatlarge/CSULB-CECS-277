@@ -1,6 +1,6 @@
 //*****************************************************************
 //Filename:  proj1.cpp											  *	
-//Author:  Matt Sguerri                                           *
+//Author:  Esquire At Large                                           *
 //Date written:  Monday, September 15th, 2008.                    *
 //Program Description:  This program maintains                    *
 //a list of airports and allows                                   *
